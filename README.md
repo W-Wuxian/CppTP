@@ -1,6 +1,6 @@
 # CppTP
 Suite de TP C/C++ d'Annabelle Collin [cf son site perso](https://annabellecollin.perso.math.cnrs.fr/C++.html) et Kevin Santugini 
-# Cours C++
+# Cours C++ : Les Bases
 Les bases sont données via les fichiers:
 - [PolyCxx](./TP/PolyCxx.pdf)
 - [TP 1 CPP lvl1](./TP/TP_1_CPP_lvl1.pdf)
@@ -11,5 +11,9 @@ Les bases sont données via les fichiers:
 - [TP 6 c++ avancé](./TP/TP_6.pdf)
 # Correction
 Pour le TP 3 Game Of Life cf une solution possible [ici](https://github.com/W-Wuxian/GOL/tree/main)
-# Autre
+# Cours C++ : Notions avancées
+Cours de F. Hecht
+- [Cpp Autre Cours et Elements Finis](./TP/CppAutreCoursEtElementsFinis_FHecht.pdf)
+# Autre : Interface
+Souvent vue dans les codes, mais optionnel
 Exemple d'interface C/Fortran [là](https://github.com/W-Wuxian/CF)
